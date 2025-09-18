@@ -15,3 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Onde está a Segunda ?
 - [ ] Avatar: The Way Of Water
+- [ ] Scooby-doo
+
